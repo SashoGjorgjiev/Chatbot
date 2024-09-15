@@ -14,7 +14,7 @@ Clone the repository:
 
 Copy code
 
-- git clone https://github.com/your-repo/chatbot.git
+- git clone https://github.com/SashoGjorgjiev/chatbot.git
 Navigate to the project directory:
 
 cd chatbot
